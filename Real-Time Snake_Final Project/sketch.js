@@ -148,7 +148,7 @@ function draw() {
   		endGame();
     }
 
-    if (count>2000){
+    if (count>2500){
       gameState = 'end';
     }
 }
