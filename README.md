@@ -1,2 +1,2 @@
 # Final_Project
-Final Project for Aesthetic Programming 2017
+Final Project for the course Aesthetic Programming 2017.
